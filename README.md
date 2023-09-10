@@ -12,8 +12,8 @@ I'm 0xJordan, an aspiring fullstack developer and welcome to my GitHub profile! 
 
 - 💻 Programming Languages: Python, JS
 - 🛠️ Frameworks: Express, NextJS
-- 📦 Tools: Github, Visual Studio Code, NPM, Tailwind, Postman
-- 🌐 Web Technologies: React, HTML, CSS
+- 📦 Tools: Github, Visual Studio Code, NPM, Postman
+- 🌐 Web Technologies: React, HTML, CSS, Tailwind, Prisma
 - 🧰 BaaS: Supabase, Pocketbase
 
 ## GitHub Stats
